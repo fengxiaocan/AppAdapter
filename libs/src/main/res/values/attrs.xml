@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AdaptStyle">
+        <attr name="textSize" format="integer"/>
+        <attr name="textSizeH" format="integer"/>
+        <attr name="drawablePadding" format="integer"/>
+        <attr name="layout_width" format="integer"/>
+        <attr name="layout_height" format="integer"/>
+        <attr name="padding" format="integer"/>
+        <attr name="paddingLeft" format="integer"/>
+        <attr name="paddingRight" format="integer"/>
+        <attr name="paddingTop" format="integer"/>
+        <attr name="paddingBottom" format="integer"/>
+        <attr name="layout_margin" format="integer"/>
+        <attr name="layout_marginLeft" format="integer"/>
+        <attr name="layout_marginRight" format="integer"/>
+        <attr name="layout_marginTop" format="integer"/>
+        <attr name="layout_marginBottom" format="integer"/>
+
+        <attr name="maxHeight" format="integer"/>
+        <attr name="maxWidth" format="integer"/>
+        <attr name="minHeight" format="integer"/>
+        <attr name="minWidth" format="integer"/>
+
+        <attr name="textTouchColor" format="color"/>
+        <attr name="solidColor" format="color"/>
+        <attr name="strokeColor" format="color"/>
+        <attr name="solidTouchColor" format="color"/>
+        <attr name="strokeTouchColor" format="color"/>
+        <attr name="strokeWith" format="integer"/>
+        <attr name="shapeTpe" format="integer"/>
+        <attr name="radius" format="integer"/>
+        <attr name="topLeftRadius" format="integer"/>
+        <attr name="topRightRadius" format="integer"/>
+        <attr name="bottomLeftRadius" format="integer"/>
+        <attr name="bottomRightRadius" format="integer"/>
+
+    </declare-styleable>
+</resources>
